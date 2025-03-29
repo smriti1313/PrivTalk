@@ -1,6 +1,6 @@
-# **ChatTap: Secure Real-Time Messaging App**
+# **PrivTalk: Secure Real-Time Messaging App**
 
-**ChatTap** is a modern web-based chat application designed to offer end-to-end encrypted communication in real-time. Built using the **MERN stack**, this app allows users to engage in private and secure conversations.
+**PrivTalk** is a modern web-based chat application designed to offer end-to-end encrypted communication in real-time. Built using the **MERN stack**, this app allows users to engage in private and secure conversations.
 
 ## 🛠️ **Technologies Used:**
 - **Frontend**: React.js, Chakra UI, Tailwind CSS
@@ -39,7 +39,7 @@ Watch the project in action!
 
 ## 📝 **Getting Started**
 
-To run ChatTap locally on your machine, follow the steps below:
+To run PrivTalk locally on your machine, follow the steps below:
 
 ### Prerequisites
 Ensure you have the following installed:
@@ -50,8 +50,8 @@ Ensure you have the following installed:
 
 Clone the repository:
    
-git clone https://github.com/Deepeshgodhwani/ChatTap.git
-   cd ChatTap
+git clone https://github.com/Deepeshgodhwani/PrivTalk.git
+   cd PrivTalk
 
 
 Install Dependencies:
